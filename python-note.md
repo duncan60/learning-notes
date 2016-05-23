@@ -1,4 +1,4 @@
-# learn-python-notes
+# python-note
 學習 python 的資源筆記，紀錄學習 python 的過程。
 
 ##step1
