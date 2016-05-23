@@ -1,4 +1,4 @@
-# learn-mongodb-notes
+# mongodb-note
 學習 mondodb 的資源筆記。瞭解 python 及 Flask-RESTful 後 ，接著學習 mongodb 的基礎操作，最後目標是能實作出操作 mongodb 的 python RESTful API。
 
 ## 安裝：
