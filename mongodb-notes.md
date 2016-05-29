@@ -15,4 +15,6 @@
 [Flask-PyMongo 中文](http://kevinchen.synology.me/TechnicalDocuments/flask/Flask-pymongo_Simon.html)
 
 ##資源
+[MongoDB 初見指南](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402170266&idx=1&sn=2c56c213f8c4ad53e3f00595cf64858a#rd)
+
 [MongoDB Tutorial（2）MongoDB 的 Query Language](http://www.codedata.com.tw/database/mongodb-tutorial-2-query-language/)
