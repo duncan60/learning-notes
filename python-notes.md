@@ -60,3 +60,5 @@
 [Virtualenv](http://virtualenv.readthedocs.org/en/latest/)
 
 [Python奇技淫巧](http://andrewliu.in/2015/11/14/Python%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/)
+
+[如果你也想写Flask](http://codingpy.com/article/if-you-also-want-to-write-flask/)
