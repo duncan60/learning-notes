@@ -6,3 +6,7 @@
 學習安裝與入門
 
 [Redis入门](http://www.rm5u.com/db/redis/)
+
+
+##資源
+[redis cn](http://www.redis.cn/)
