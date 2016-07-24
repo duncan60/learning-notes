@@ -6,4 +6,5 @@
   - [mongodb notes](https://github.com/duncan60/learning-notes/blob/master/mongodb-notes.md)
   - [docker notes](https://github.com/duncan60/learning-notes/blob/master/docker-notes.md)
   - [architecture notes](https://github.com/duncan60/learning-notes/blob/master/architecture-notes.md)
-  - [Linux notes](https://github.com/duncan60/learning-notes/blob/master/linux.md)
+  - [Linux notes](https://github.com/duncan60/learning-notes/blob/master/linux-notes.md)
+  - [redis notes](https://github.com/duncan60/learning-notes/blob/master/redis-notes.md)
