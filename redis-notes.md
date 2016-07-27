@@ -9,5 +9,11 @@
 
 [try redis](http://try.redis.io/)
 
+## step2 
+
+更深入了解 redis 與運用
+
+[極客學院 Redis 3.0](http://wiki.jikexueyuan.com/project/redis-guide/)
+
 ##資源
 [redis cn](http://www.redis.cn/)
