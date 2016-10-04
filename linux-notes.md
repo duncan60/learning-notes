@@ -11,4 +11,8 @@
 [慕課網 Linux 达人养成计划 II](http://www.imooc.com/view/111)
 
 ## Step 3
- [Linux网络管理](http://www.imooc.com/view/258)
+[Linux网络管理](http://www.imooc.com/view/258)
+
+ 
+## 文章資源
+  - [Linux 系统编程(一) —— 基本概念](http://youbookee.com/2016/09/26/Linux-system-program-booknote/)
