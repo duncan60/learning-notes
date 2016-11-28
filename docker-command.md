@@ -60,6 +60,9 @@ RUN apt-get -qq update
 		* --name: 容器名子
 		* --volumes-from: 指定一個已有的容器來掛載資料
 		* -h: 容器主機名
+		* -rm: 終止後立刻刪除，不可與 -d 同時使用
+		* --link: 容器之間進行互動
+			* name:alias 
 
 	* 啟動: start \<PID | Name\>
 	* 重啟: restart \<PID | Name\>
@@ -73,7 +76,7 @@ RUN apt-get -qq update
 
 ```
 $ docker ps -a
-$ docker run -tid -p 8080:8080 -v home/project:/opt/project --name my-app ubuntu:14.04 /bin/sh -c "cd opt/project && python run.py"
+$ docker run -tid -p 8080:8080 -v home/project:/opt/project --name my-app ubuntu:14.04 /bin/sh -c "command" --link db:db
 $ docker run -rm -it -v ~/.bash_history:/.bash_history ubuntu /bin/bash
 $ docker run --volumes-from my-app --name new_container training/postgres
 $ docker start my-app
@@ -89,7 +92,7 @@ $ docker rm -f my-app
 * repository	
 	* 登入: login
 	* 搜尋: search \<key word\>
-	* push:
+	* 推送遠端: push
 
 	
 ```
