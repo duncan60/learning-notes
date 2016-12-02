@@ -16,3 +16,4 @@
  
 ## 文章資源
   - [Linux 系统编程(一) —— 基本概念](http://youbookee.com/2016/09/26/Linux-system-program-booknote/)
+  - [Linux 命令搜尋](https://jaywcjlove.github.io/linux-command/)
