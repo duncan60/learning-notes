@@ -19,15 +19,29 @@ $ docker rmi test:v0.01
 $ docker commit -m 'new images' -a 'docker newbee' test:v0.0.1 test:v0.0.2
 ```
 
+## Dockerfile
+
 * dockerfile:
-	* 建立: build \<-t='image\_name:image\_tag'\> .
+	* 建立: build [OPTIONS] image\_name:image\_tag .
 		* -t: 指定新的映像檔訊息 
+		* --build-arg: 自帶變數，dockerfile內可用 ARG 取得
 		* . : dockerfile 檔前目錄，也可用具體的dockerfile目錄
 	* file命令：
 		* RUN: 建立中執行的指令	 
-		* ADD local_folder_path container_folder_path: 本地目錄複製到容器目錄
-		* EXPOSE prot: 向對外部開放 port
 		* CMD: 容器啟動後接著要執行的程序
+			* CMD ['executable', 'param1', 'param2']
+			* CMD command param1 param2
+			* CMD ['param1', 'param2']
+		* ENTRYPOINT: 建立容器後要執行或運行的檔案
+		* WORKDIR: 切換工作目錄
+		* ARG: 建置變數
+		* ENV: 環境變數
+		* LABEL: 定義的標籤可以使用在 docker 指令中作為過濾用途，在 instance 內是無法取得。
+		* ADD <src> <dest>: 本地目錄複製到容器目錄
+		* COPY <src> <dest>: 複製本地端到容器內
+		* EXPOSE prot: 向對外部開放 port
+		* ${variable:-word} 代表，如果variable有給值，則以variable設定的文字為主，如未設定，則以word字串為主。
+		* ${variable:+word} 代表，如果variable有給值，則值為word；如果variable未給值，則最後結果為空字串(empty)。	
 
 
 dockerfile範例
@@ -44,9 +58,9 @@ RUN apt-get -qq update
 ## container
 
 * 容器： 
-	* 顯示執行中： ps [-a]  
+	* 顯示執行中： ps [OPTIONS]  
 		-a: 所有狀態
-	* 執行： run [-t -i -d] 
+	* 執行： run [OPTIONS] 
 		* -t: 分配一個虛擬終端並綁定到標準輸入上
 		* -i: 容器的標準輸入保持打開
 		* -d: 以守護狀態執行
@@ -62,6 +76,7 @@ RUN apt-get -qq update
 		* -h: 容器主機名
 		* -rm: 終止後立刻刪除，不可與 -d 同時使用
 		* --link: 容器之間進行互動
+		* 
 			* name:alias 
 
 	* 啟動: start \<PID | Name\>
@@ -102,7 +117,8 @@ $ docker push
 ```
 
 * 其他：
-	* 輸出訊息: logs [-f] \<PID | containr_name\>
+	* 輸出訊息: logs [OPTIONS] \<PID | containr_name\>
+		* -f 
 	* 查看當前映射的連結port: port \<containr_name\> <port>
 	* 獲取所有變數: inspect
 
