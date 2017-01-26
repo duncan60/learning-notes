@@ -12,3 +12,5 @@
 [解析微服務架構（二）微服務架構綜述](http://www.infoq.com/cn/articles/analysis-the-architecture-of-microservice-part-02)
 
 [微服務實戰：從架構到部署](http://dockone.io/article/1519)
+
+[大型网站技术架构-入门梳理](http://brianway.github.io/2017/01/18/reading-note-architecture-design/)
