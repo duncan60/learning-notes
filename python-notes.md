@@ -64,3 +64,5 @@
 [如果你也想写Flask](http://codingpy.com/article/if-you-also-want-to-write-flask/)
 
 [flask-restplus](https://github.com/noirbizarre/flask-restplus)
+
+[How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
