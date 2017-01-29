@@ -15,5 +15,7 @@
 
 [大型网站技术架构-入门梳理](http://brianway.github.io/2017/01/18/reading-note-architecture-design/)
 
+[在首席架构师眼里，架构的本质是……](http://www.infoq.com/cn/articles/the-essence-of-the-architecture?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
+
 ## 博客
 [架构说](http://www.jiagoushuo.com/article/new.html)
