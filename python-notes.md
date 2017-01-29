@@ -66,3 +66,5 @@
 [flask-restplus](https://github.com/noirbizarre/flask-restplus)
 
 [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
+
+[Python 技巧总结](http://litaotao.github.io/python-materials?utm_source=xitu)
