@@ -14,3 +14,6 @@
 [微服務實戰：從架構到部署](http://dockone.io/article/1519)
 
 [大型网站技术架构-入门梳理](http://brianway.github.io/2017/01/18/reading-note-architecture-design/)
+
+## 博客
+[架构说](http://www.jiagoushuo.com/article/new.html)
