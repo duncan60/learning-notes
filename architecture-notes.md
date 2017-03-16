@@ -17,5 +17,7 @@
 
 [在首席架构师眼里，架构的本质是……](http://www.infoq.com/cn/articles/the-essence-of-the-architecture?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
 
+[system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ## 博客
 [架构说](http://www.jiagoushuo.com/article/new.html)
