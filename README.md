@@ -10,3 +10,4 @@
   - [Linux notes](https://github.com/duncan60/learning-notes/blob/master/linux-notes.md)
   - [redis notes](https://github.com/duncan60/learning-notes/blob/master/redis-notes.md)
   - [graphql notes](https://github.com/duncan60/learning-notes/blob/master/graphql-notes.md)
+  - [swift notes](https://github.com/duncan60/learning-notes/blob/master/swift-notes.md)
