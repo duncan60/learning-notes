@@ -1,8 +1,10 @@
 # Docker Command Notes
 
-筆記 docker 指令速查表，方便操作上參考
+筆記 docker 指令速查表，方便操作上查詢
 
-主要參考[《Docker —— 從入門到實踐­》正體中文版](https://www.gitbook.com/book/philipzheng/docker_practice/details)
+參考:
+ - [《Docker —— 從入門到實踐­》正體中文版](https://www.gitbook.com/book/philipzheng/docker_practice/details)
+ - [yeasy docker practice 2017年 正體中文譯本 0.8.1](https://www.gitbook.com/book/wild0522/yeasy_dp/details)
 
 ## images
 
@@ -126,4 +128,5 @@ $ docker push
 $ docker logs my_container_name
 $ docker inspect
 ```
-		 
+
+
