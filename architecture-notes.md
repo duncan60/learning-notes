@@ -19,5 +19,7 @@
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
+[每个架构师都应该研究下康威定律](http://www.infoq.com/cn/articles/every-architect-should-study-conway-law)
+
 ## 博客
 [架构说](http://www.jiagoushuo.com/article/new.html)
