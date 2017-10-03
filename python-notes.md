@@ -50,11 +50,11 @@
 
 ###資源
 
-[Python 中文学习大本营] (http://www.pythondoc.com/)
+[Python 中文学习大本营](http://www.pythondoc.com/)
 
 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 
-[如何使用 Flask-Login] (http://jaychung.tw/2015/02/23/how-to-apply-flask-login/)
+[如何使用 Flask-Login](http://jaychung.tw/2015/02/23/how-to-apply-flask-login/)
 
 [Python Guide.](http://docs.python-guide.org/en/latest/)
 
