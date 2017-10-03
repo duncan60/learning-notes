@@ -46,7 +46,10 @@
 
 [廖雪峰的python 3 教程 ](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
+[Python3 入門](http://tw.gitbook.net/t/python3.html)
+
 ###資源
+
 [Python 中文学习大本营] (http://www.pythondoc.com/)
 
 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
@@ -68,3 +71,4 @@
 [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
 
 [Python 技巧总结](http://litaotao.github.io/python-materials?utm_source=xitu)
+
