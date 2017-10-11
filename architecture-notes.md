@@ -21,5 +21,7 @@
 
 [每个架构师都应该研究下康威定律](http://www.infoq.com/cn/articles/every-architect-should-study-conway-law)
 
+[《微服务：从设计到部署》中文版](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)
+
 ## 博客
 [架构说](http://www.jiagoushuo.com/article/new.html)
