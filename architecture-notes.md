@@ -17,11 +17,11 @@
 
 [在首席架构师眼里，架构的本质是……](http://www.infoq.com/cn/articles/the-essence-of-the-architecture?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
 
-[system-design-primer](https://github.com/donnemartin/system-design-primer)
-
 [每个架构师都应该研究下康威定律](http://www.infoq.com/cn/articles/every-architect-should-study-conway-law)
 
 [《微服务：从设计到部署》中文版](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)
+
+[system-design-primer 中文版](https://github.com/xitu/system-design-primer/blob/master/README-zh-Hans.md)
 
 ## 博客
 [架构说](http://www.jiagoushuo.com/article/new.html)
