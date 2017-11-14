@@ -4,6 +4,10 @@
 
 ## step1
 
-[Go程式語言指南](https://go-tour-zh-tw.appspot.com/list)
+學習基礎
+
+- [Go程式語言指南](https://go-tour-zh-tw.appspot.com/list)
+
+- [The Little Go Book 繁體中文翻譯版](https://www.gitbook.com/book/kevingo/the-little-go-book/details)
 
 
