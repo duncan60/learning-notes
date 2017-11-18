@@ -1,20 +1,20 @@
 # python notes
 學習 python 的資源筆記，紀錄學習 python 的過程。
 
-##step1
+## step1
 
 學習基礎法語與基本數據類型
 
 [慕課網python入門課程](http://www.imooc.com/learn/177)
 
 
-##step2
+## step2
 
 學習高階函式與類別
 
 [慕課網python進階課程](http://www.imooc.com/learn/317)
 
-##step3
+## step3
 
 加深瞭解 python 語法的方法及用法
 
@@ -22,7 +22,7 @@
 
 [python Docs](http://www.pythondoc.com/pythontutorial27/)
 
-##step4
+## step4
 
 學習 Flask ， 開始動作寫python
 
@@ -33,7 +33,7 @@
 [Practice repository](https://github.com/duncan60/python-practice-project)
 
 
-##step5
+## step5
 
 學習 Flask RESTful
 
@@ -48,7 +48,7 @@
 
 [Python3 入門](http://tw.gitbook.net/t/python3.html)
 
-###資源
+### 資源
 
 [Python 中文学习大本营](http://www.pythondoc.com/)
 
