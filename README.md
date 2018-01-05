@@ -12,3 +12,4 @@
   - [graphql notes](./graphql-notes.md)
   - [swift notes](./swift-notes.md)
   - [nginx](./nginx-note.md)
+  - [golang](./golang-notes.md)
