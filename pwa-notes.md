@@ -18,5 +18,7 @@
 
 - [pwa.rocks](https://pwa.rocks/)
 
+- [Webpack 工程的 PWA 实战](http://gitbook.cn/books/59957adbebb0e06f9f24c389/index.html)
+
 
 
