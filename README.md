@@ -10,10 +10,10 @@
   - [mongodb notes](./mongodb-notes.md)
   - [redis notes](./redis-notes.md)
   - [graphql notes](./graphql-notes.md)
-  - [golang](./golang-notes.md)
+  - [golang notes](./golang-notes.md)
   
 ## DevOps:
-  - [nginx](./nginx-note.md)
+  - [nginx notes](./nginx-note.md)
   - [Linux notes](./linux-notes.md)
   - [docker notes](./docker-notes.md)
     - [docker command](./docker-command.md)
