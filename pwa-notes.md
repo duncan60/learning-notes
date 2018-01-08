@@ -20,5 +20,13 @@
 
 - [Webpack 工程的 PWA 实战](http://gitbook.cn/books/59957adbebb0e06f9f24c389/index.html)
 
+## library:
+
+- [sw-precache](https://github.com/GoogleChromeLabs/sw-precache)
+
+- [sw-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox)
+
+- [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
+
 
 
