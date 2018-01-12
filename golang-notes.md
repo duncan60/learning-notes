@@ -10,6 +10,4 @@
 
 - [The Little Go Book 繁體中文翻譯版](https://www.gitbook.com/book/kevingo/the-little-go-book/details)
 
-- [golang-tutorial](https://github.com/jaywcjlove/golang-tutorial)
-
 
