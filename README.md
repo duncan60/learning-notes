@@ -7,6 +7,7 @@
   
 ## B2E:
   - [python notes](./python-notes.md)
+    - [django notes](./django-notes.md)
   - [mongodb notes](./mongodb-notes.md)
   - [redis notes](./redis-notes.md)
   - [graphql notes](./graphql-notes.md)
