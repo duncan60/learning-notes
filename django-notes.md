@@ -31,3 +31,4 @@
 
 - [Django筆記(11) - 權限與註冊](http://dokelung-blog.logdown.com/posts/234896-django-notes-11-permission-and-registration)
 
+- [刘江的博客 随笔分类 - Django从入门到精通](https://www.cnblogs.com/feixuelove1009/category/1158337.html)
